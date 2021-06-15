@@ -1,6 +1,6 @@
 # AHK Library
 
-Compilation of Autohotkey scripts for efficienct productivity
+Compilation of Autohotkey scripts for efficiency and productivity
 
 ## List of scripts
 
